@@ -8,10 +8,7 @@ import { sources as demoUtilsSources } from './demo-modules/demo-utils/sources';
 
 interface Source {
   filename: string;
-  contents: {
-    raw: string;
-    highlighted: string;
-  };
+  contents: { raw: string; highlighted: string };
   language: string;
 }
 
