@@ -28,7 +28,7 @@
       'rxjs':                      'npm:rxjs',
       'angular-in-memory-web-api': 'npm:angular-in-memory-web-api',
       'angular-calendar': 'npm:angular-calendar/bundles/angular-calendar.umd.js',
-      'calendar-utils': 'npm:calendar-utils/dist/umd/calendar-utils.js',
+      'kaloyan-calendar-utils': 'npm:kaloyan-calendar-utils/dist/umd/calendar-utils.js',
       'angular-resizable-element': 'npm:angular-resizable-element/bundles/angular-resizable-element.umd.js',
       'angular-draggable-droppable': 'npm:angular-draggable-droppable/bundles/angular-draggable-droppable.umd.js',
       'date-fns': 'npm:date-fns',

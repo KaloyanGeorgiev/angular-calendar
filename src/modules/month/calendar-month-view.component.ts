@@ -17,7 +17,7 @@ import {
   MonthView,
   MonthViewDay,
   ViewPeriod
-} from 'calendar-utils';
+} from 'kaloyan-calendar-utils';
 import { Subject } from 'rxjs/Subject';
 import { Subscription } from 'rxjs/Subscription';
 import isSameDay from 'date-fns/is_same_day/index';

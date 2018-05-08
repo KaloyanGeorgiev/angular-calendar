@@ -5,7 +5,7 @@ import {
   EventEmitter,
   TemplateRef
 } from '@angular/core';
-import { WeekViewEvent } from 'calendar-utils';
+import { WeekViewEvent } from 'kaloyan-calendar-utils';
 
 @Component({
   selector: 'mwl-calendar-week-view-event',

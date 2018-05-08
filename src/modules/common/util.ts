@@ -2,7 +2,7 @@ import {
   CalendarEvent,
   validateEvents as validateEventsWithoutLog,
   WeekDay
-} from 'calendar-utils';
+} from 'kaloyan-calendar-utils';
 
 export const validateEvents = (events: CalendarEvent[]) => {
   const warn = (...args) => console.warn('angular-calendar', ...args);

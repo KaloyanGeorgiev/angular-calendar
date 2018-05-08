@@ -4,7 +4,7 @@ import {
   ViewEncapsulation
 } from '@angular/core';
 import { CalendarEvent, CalendarMonthViewDay } from 'angular-calendar';
-import { DayViewHour } from 'calendar-utils';
+import { DayViewHour } from 'kaloyan-calendar-utils';
 
 @Component({
   selector: 'mwl-demo-component',

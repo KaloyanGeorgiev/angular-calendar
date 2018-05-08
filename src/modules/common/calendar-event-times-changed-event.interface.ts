@@ -1,4 +1,4 @@
-import { CalendarEvent } from 'calendar-utils';
+import { CalendarEvent } from 'kaloyan-calendar-utils';
 
 /**
  * The output `$event` type when an event is resized or dragged and dropped.

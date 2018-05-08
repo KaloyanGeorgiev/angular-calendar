@@ -82,7 +82,7 @@ export default (env = 'development') => {
     },
     plugins: removeEmpty([
       new FilterWarningsPlugin({
-        exclude: /export '\w+' was not found in 'calendar-utils'/
+        exclude: /export '\w+' was not found in 'kaloyan-calendar-utils'/
       }),
       ifDevelopment(new ForkTsCheckerWebpackPlugin({
         watch: ['./src', './demos'],

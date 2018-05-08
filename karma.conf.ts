@@ -65,7 +65,7 @@ export default config => {
       },
       plugins: [
         new FilterWarningsPlugin({
-          exclude: /export '\w+' was not found in 'calendar-utils'/
+          exclude: /export '\w+' was not found in 'kaloyan-calendar-utils'/
         }),
         ...(config.singleRun ? [
           new WebpackKarmaDieHardPlugin(),

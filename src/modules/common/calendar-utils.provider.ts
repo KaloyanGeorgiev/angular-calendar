@@ -15,7 +15,7 @@ import {
   GetDayViewHourGridArgs,
   DayViewHour,
   WeekView
-} from 'calendar-utils';
+} from 'kaloyan-calendar-utils';
 
 @Injectable()
 export class CalendarUtils {

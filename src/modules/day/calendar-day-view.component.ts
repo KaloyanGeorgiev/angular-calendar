@@ -18,7 +18,7 @@ import {
   DayViewHourSegment,
   DayViewEvent,
   ViewPeriod
-} from 'calendar-utils';
+} from 'kaloyan-calendar-utils';
 import { Subject } from 'rxjs/Subject';
 import { Subscription } from 'rxjs/Subscription';
 import { ResizeEvent } from 'angular-resizable-element';
@@ -137,7 +137,7 @@ export class CalendarDayViewComponent implements OnChanges, OnInit, OnDestroy {
 
   /**
    * An array of events to display on view
-   * The schema is available here: https://github.com/mattlewis92/calendar-utils/blob/c51689985f59a271940e30bc4e2c4e1fee3fcb5c/src/calendarUtils.ts#L49-L63
+   * The schema is available here: https://github.com/mattlewis92/kaloyan-calendar-utils/blob/c51689985f59a271940e30bc4e2c4e1fee3fcb5c/src/calendarUtils.ts#L49-L63
    */
   @Input() events: CalendarEvent[] = [];
 

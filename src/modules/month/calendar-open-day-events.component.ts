@@ -6,7 +6,7 @@ import {
   TemplateRef
 } from '@angular/core';
 import { trigger, style, transition, animate } from '@angular/animations';
-import { CalendarEvent } from 'calendar-utils';
+import { CalendarEvent } from 'kaloyan-calendar-utils';
 import { trackByEventId } from '../common/util';
 
 @Component({

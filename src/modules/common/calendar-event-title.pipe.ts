@@ -1,5 +1,5 @@
 import { Pipe, PipeTransform } from '@angular/core';
-import { CalendarEvent } from 'calendar-utils';
+import { CalendarEvent } from 'kaloyan-calendar-utils';
 import { CalendarEventTitleFormatter } from './calendar-event-title-formatter.provider';
 
 @Pipe({

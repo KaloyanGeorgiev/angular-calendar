@@ -1,5 +1,5 @@
 import { Component, Input } from '@angular/core';
-import { CalendarEvent } from 'calendar-utils';
+import { CalendarEvent } from 'kaloyan-calendar-utils';
 import { trackByIndex } from './util';
 
 @Component({

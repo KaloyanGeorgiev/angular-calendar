@@ -1,5 +1,5 @@
 import { Component, Input, TemplateRef } from '@angular/core';
-import { DayViewHourSegment } from 'calendar-utils';
+import { DayViewHourSegment } from 'kaloyan-calendar-utils';
 
 @Component({
   selector: 'mwl-calendar-day-view-hour-segment',

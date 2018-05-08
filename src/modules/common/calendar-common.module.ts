@@ -37,7 +37,7 @@ export {
   EventAction as CalendarEventAction,
   DAYS_OF_WEEK,
   ViewPeriod as CalendarViewPeriod
-} from 'calendar-utils';
+} from 'kaloyan-calendar-utils';
 
 /**
  * Import this module to if you're just using a singular view and want to save on bundle size. Example usage:

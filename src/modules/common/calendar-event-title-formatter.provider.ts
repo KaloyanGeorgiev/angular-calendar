@@ -1,4 +1,4 @@
-import { CalendarEvent } from 'calendar-utils';
+import { CalendarEvent } from 'kaloyan-calendar-utils';
 
 /**
  * This class is responsible for displaying all event titles within the calendar. You may override any of its methods via angulars DI to suit your requirements. For example:

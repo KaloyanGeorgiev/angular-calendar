@@ -1,5 +1,5 @@
 import { Component, Input, TemplateRef } from '@angular/core';
-import { WeekDay } from 'calendar-utils';
+import { WeekDay } from 'kaloyan-calendar-utils';
 import { trackByWeekDayHeaderDate } from '../common/util';
 
 @Component({

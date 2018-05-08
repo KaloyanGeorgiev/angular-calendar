@@ -9,7 +9,7 @@ import {
   endOfMonth,
   addWeeks
 } from 'date-fns';
-import { GetMonthViewArgs, MonthView, getMonthView } from 'calendar-utils';
+import { GetMonthViewArgs, MonthView, getMonthView } from 'kaloyan-calendar-utils';
 
 export class MyCalendarUtils extends CalendarUtils {
   getMonthView(args: GetMonthViewArgs): MonthView {

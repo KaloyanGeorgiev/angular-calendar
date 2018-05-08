@@ -19,7 +19,7 @@ import {
   WeekViewEvent,
   WeekView,
   ViewPeriod
-} from 'calendar-utils';
+} from 'kaloyan-calendar-utils';
 import { ResizeEvent } from 'angular-resizable-element';
 import addDays from 'date-fns/add_days/index';
 import { CalendarDragHelper } from '../common/calendar-drag-helper.provider';
